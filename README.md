@@ -12,7 +12,7 @@
 1.   index.html
      *   ヘッダ部分作成（いつもの内容）
          *   読み込むcssはstyle.cssを指定
-         * titleは適宜変更
+         *   titleは適宜変更
      *  ボディ部分作成
          *   srcはapp.jsを指定
          *   今回必要なのは、3つの要素なのでその3つをとりあえず記載
@@ -24,7 +24,7 @@
     *   3つの要素を実装する
         *   time-selectボタン　時間を選べる3種類のボタンを作成し、データは秒数とする
         *   player-container　クローンしたリポジトリに用意されているmp3ファイルを指定する
-        *   **★　要確認：track-outlineとmoving-outlineのsvgファイルをコピーして貼り付ける**
+        *   要確認：track-outlineとmoving-outlineのsvgファイルをコピーして貼り付ける
         *   sound-picker　2つボタンを作成し、各々用意された音楽・アイコンと紐付ける
   
 4.  style.css
